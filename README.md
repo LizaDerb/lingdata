@@ -6,12 +6,14 @@
 
 * это мыль номер 1
 
-* smart thoughts
+* `smart thoughts`
   * пункт второго уровня
   * hi
 
 * ~i dont have them~
-
+```
+interesting блок для иллюстрации
+```
 
 ### Заголовок третьего уровня
 
