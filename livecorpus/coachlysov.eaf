@@ -1,0 +1,522 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ANNOTATION_DOCUMENT AUTHOR="" DATE="2021-09-19T22:39:19+03:00"
+    FORMAT="3.0" VERSION="3.0"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.mpi.nl/tools/elan/EAFv3.0.xsd">
+    <HEADER MEDIA_FILE="" TIME_UNITS="milliseconds">
+        <MEDIA_DESCRIPTOR MEDIA_URL="file:///D:/coachlysov.mp4"
+            MIME_TYPE="video/mp4" RELATIVE_MEDIA_URL="./coachlysov.mp4"/>
+        <PROPERTY NAME="URN">urn:nl-mpi-tools-elan-eaf:278f56b8-8477-414a-ab09-f427f99f60c1</PROPERTY>
+        <PROPERTY NAME="lastUsedAnnotationId">60</PROPERTY>
+    </HEADER>
+    <TIME_ORDER>
+        <TIME_SLOT TIME_SLOT_ID="ts1" TIME_VALUE="7055"/>
+        <TIME_SLOT TIME_SLOT_ID="ts2" TIME_VALUE="8525"/>
+        <TIME_SLOT TIME_SLOT_ID="ts3" TIME_VALUE="8540"/>
+        <TIME_SLOT TIME_SLOT_ID="ts4" TIME_VALUE="9480"/>
+        <TIME_SLOT TIME_SLOT_ID="ts5" TIME_VALUE="9490"/>
+        <TIME_SLOT TIME_SLOT_ID="ts6" TIME_VALUE="18180"/>
+        <TIME_SLOT TIME_SLOT_ID="ts7" TIME_VALUE="18180"/>
+        <TIME_SLOT TIME_SLOT_ID="ts8" TIME_VALUE="19910"/>
+        <TIME_SLOT TIME_SLOT_ID="ts9" TIME_VALUE="19930"/>
+        <TIME_SLOT TIME_SLOT_ID="ts10" TIME_VALUE="20510"/>
+        <TIME_SLOT TIME_SLOT_ID="ts11" TIME_VALUE="20510"/>
+        <TIME_SLOT TIME_SLOT_ID="ts12" TIME_VALUE="23670"/>
+        <TIME_SLOT TIME_SLOT_ID="ts13" TIME_VALUE="23670"/>
+        <TIME_SLOT TIME_SLOT_ID="ts14" TIME_VALUE="31230"/>
+        <TIME_SLOT TIME_SLOT_ID="ts15" TIME_VALUE="31255"/>
+        <TIME_SLOT TIME_SLOT_ID="ts16" TIME_VALUE="34205"/>
+        <TIME_SLOT TIME_SLOT_ID="ts17" TIME_VALUE="34210"/>
+        <TIME_SLOT TIME_SLOT_ID="ts18" TIME_VALUE="39450"/>
+        <TIME_SLOT TIME_SLOT_ID="ts19" TIME_VALUE="39450"/>
+        <TIME_SLOT TIME_SLOT_ID="ts20" TIME_VALUE="39460"/>
+        <TIME_SLOT TIME_SLOT_ID="ts21" TIME_VALUE="39460"/>
+        <TIME_SLOT TIME_SLOT_ID="ts22" TIME_VALUE="40290"/>
+        <TIME_SLOT TIME_SLOT_ID="ts23" TIME_VALUE="40290"/>
+        <TIME_SLOT TIME_SLOT_ID="ts24" TIME_VALUE="49080"/>
+        <TIME_SLOT TIME_SLOT_ID="ts25" TIME_VALUE="49490"/>
+        <TIME_SLOT TIME_SLOT_ID="ts26" TIME_VALUE="55000"/>
+        <TIME_SLOT TIME_SLOT_ID="ts27" TIME_VALUE="55240"/>
+        <TIME_SLOT TIME_SLOT_ID="ts28" TIME_VALUE="62350"/>
+        <TIME_SLOT TIME_SLOT_ID="ts29" TIME_VALUE="62350"/>
+        <TIME_SLOT TIME_SLOT_ID="ts30" TIME_VALUE="63960"/>
+        <TIME_SLOT TIME_SLOT_ID="ts31" TIME_VALUE="63970"/>
+        <TIME_SLOT TIME_SLOT_ID="ts32" TIME_VALUE="68580"/>
+        <TIME_SLOT TIME_SLOT_ID="ts33" TIME_VALUE="68610"/>
+        <TIME_SLOT TIME_SLOT_ID="ts34" TIME_VALUE="75600"/>
+        <TIME_SLOT TIME_SLOT_ID="ts35" TIME_VALUE="75600"/>
+        <TIME_SLOT TIME_SLOT_ID="ts36" TIME_VALUE="81290"/>
+        <TIME_SLOT TIME_SLOT_ID="ts37" TIME_VALUE="81290"/>
+        <TIME_SLOT TIME_SLOT_ID="ts38" TIME_VALUE="88690"/>
+        <TIME_SLOT TIME_SLOT_ID="ts39" TIME_VALUE="88690"/>
+        <TIME_SLOT TIME_SLOT_ID="ts40" TIME_VALUE="90480"/>
+        <TIME_SLOT TIME_SLOT_ID="ts41" TIME_VALUE="90490"/>
+        <TIME_SLOT TIME_SLOT_ID="ts42" TIME_VALUE="95700"/>
+        <TIME_SLOT TIME_SLOT_ID="ts43" TIME_VALUE="95735"/>
+        <TIME_SLOT TIME_SLOT_ID="ts44" TIME_VALUE="97275"/>
+        <TIME_SLOT TIME_SLOT_ID="ts45" TIME_VALUE="97275"/>
+        <TIME_SLOT TIME_SLOT_ID="ts46" TIME_VALUE="102025"/>
+        <TIME_SLOT TIME_SLOT_ID="ts47" TIME_VALUE="102025"/>
+        <TIME_SLOT TIME_SLOT_ID="ts48" TIME_VALUE="110395"/>
+        <TIME_SLOT TIME_SLOT_ID="ts49" TIME_VALUE="110395"/>
+        <TIME_SLOT TIME_SLOT_ID="ts50" TIME_VALUE="119455"/>
+        <TIME_SLOT TIME_SLOT_ID="ts51" TIME_VALUE="119485"/>
+        <TIME_SLOT TIME_SLOT_ID="ts52" TIME_VALUE="125365"/>
+        <TIME_SLOT TIME_SLOT_ID="ts53" TIME_VALUE="125370"/>
+        <TIME_SLOT TIME_SLOT_ID="ts54" TIME_VALUE="132420"/>
+        <TIME_SLOT TIME_SLOT_ID="ts55" TIME_VALUE="132420"/>
+        <TIME_SLOT TIME_SLOT_ID="ts56" TIME_VALUE="134550"/>
+        <TIME_SLOT TIME_SLOT_ID="ts57" TIME_VALUE="134550"/>
+        <TIME_SLOT TIME_SLOT_ID="ts58" TIME_VALUE="139250"/>
+        <TIME_SLOT TIME_SLOT_ID="ts59" TIME_VALUE="139250"/>
+        <TIME_SLOT TIME_SLOT_ID="ts60" TIME_VALUE="152480"/>
+    </TIME_ORDER>
+    <TIER ANNOTATOR="LizaDerb" DEFAULT_LOCALE="ru"
+        LINGUISTIC_TYPE_REF="utterance" PARTICIPANT="@sal1951m" TIER_ID="speech@sal1951m">
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a1"
+                TIME_SLOT_REF1="ts3" TIME_SLOT_REF2="ts4">
+                <ANNOTATION_VALUE>добрый день //</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a4"
+                TIME_SLOT_REF1="ts7" TIME_SLOT_REF2="ts8">
+                <ANNOTATION_VALUE>ну / наверное / второе //</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a5"
+                TIME_SLOT_REF1="ts9" TIME_SLOT_REF2="ts10">
+                <ANNOTATION_VALUE>#смеётся#</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a6"
+                TIME_SLOT_REF1="ts11" TIME_SLOT_REF2="ts12">
+                <ANNOTATION_VALUE>мой родной дом / потому что столько лет я здесь нахожусь //</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a7"
+                TIME_SLOT_REF1="ts13" TIME_SLOT_REF2="ts14">
+                <ANNOTATION_VALUE>здесь много детей выросло / и таких довольно / эээ / с прелестным результатом / так что / конечно / родной дом //</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a9"
+                TIME_SLOT_REF1="ts17" TIME_SLOT_REF2="ts18">
+                <ANNOTATION_VALUE>прыгать я начал в / эээ / шестьдесят / шестом году //</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a10"
+                TIME_SLOT_REF1="ts19" TIME_SLOT_REF2="ts20">
+                <ANNOTATION_VALUE/>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a11"
+                TIME_SLOT_REF1="ts21" TIME_SLOT_REF2="ts22">
+                <ANNOTATION_VALUE> ммм //</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a12"
+                TIME_SLOT_REF1="ts23" TIME_SLOT_REF2="ts24">
+                <ANNOTATION_VALUE>пришёл я сюда уже в довольно таком / возрасте / как бы сейчас уже считается / что таких детей / даже и не очень берут //</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a13"
+                TIME_SLOT_REF1="ts25" TIME_SLOT_REF2="ts26">
+                <ANNOTATION_VALUE>вот / но... // видимо / был талантлив / что / ну / как бы / очень быстро подъём пошёл //</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a14"
+                TIME_SLOT_REF1="ts27" TIME_SLOT_REF2="ts28">
+                <ANNOTATION_VALUE>я уже... // на первом году занятий уже прыгал на / К-90 / вот / на нашем трамплине //</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a15"
+                TIME_SLOT_REF1="ts29" TIME_SLOT_REF2="ts30">
+                <ANNOTATION_VALUE>уже даже / вот //</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a16"
+                TIME_SLOT_REF1="ts31" TIME_SLOT_REF2="ts32">
+                <ANNOTATION_VALUE>на следующий год уже выступал в соревнованиях / хотя мне было четырнадцать лет всего //</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a18"
+                TIME_SLOT_REF1="ts33" TIME_SLOT_REF2="ts34">
+                <ANNOTATION_VALUE>вот / в шестьдесят... / в шестьдесят седьмом поехал на первенство России // был победителем / юношей //</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a19"
+                TIME_SLOT_REF1="ts35" TIME_SLOT_REF2="ts36">
+                <ANNOTATION_VALUE>вот / так что / у меня / как бы / результат то очень хорошо / поднимался //</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a20"
+                TIME_SLOT_REF1="ts37" TIME_SLOT_REF2="ts38">
+                <ANNOTATION_VALUE>вот / в шестьдесят восьмом году уже поехал на / первый чемпионат европы / который потом переименовали в чемпионат мира //</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a21"
+                TIME_SLOT_REF1="ts39" TIME_SLOT_REF2="ts40">
+                <ANNOTATION_VALUE>потом на второй чемпионат // </ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a22"
+                TIME_SLOT_REF1="ts41" TIME_SLOT_REF2="ts42">
+                <ANNOTATION_VALUE>вот / ну / единственное / конечно / эээ / #смеётся# / в судьбу вмешалась травма //</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a24"
+                TIME_SLOT_REF1="ts45" TIME_SLOT_REF2="ts46">
+                <ANNOTATION_VALUE>если взять спортивный стаж с шестьдесят восьмого года / то тренером я не сразу стал //</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a25"
+                TIME_SLOT_REF1="ts47" TIME_SLOT_REF2="ts48">
+                <ANNOTATION_VALUE>я выступал и / в Лениногорск / в Татарстан был приглашён / э / как и спортсмен и на будущее как тренером //</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a26"
+                TIME_SLOT_REF1="ts49" TIME_SLOT_REF2="ts50">
+                <ANNOTATION_VALUE>и вот я / как бы / год там / может два / за них попрыгал / повыступал и плавно перешёл на тренерскую работу / получил образование //</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a28"
+                TIME_SLOT_REF1="ts53" TIME_SLOT_REF2="ts54">
+                <ANNOTATION_VALUE>ну / мне кажется / там немножко / может быть / дети другие были чуть-чуть / как / может быть / полегче было / что ли //</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a29"
+                TIME_SLOT_REF1="ts55" TIME_SLOT_REF2="ts56">
+                <ANNOTATION_VALUE>более послушные / более такие... //</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a30"
+                TIME_SLOT_REF1="ts57" TIME_SLOT_REF2="ts58">
+                <ANNOTATION_VALUE>а / методика / практически она / почти то же самое //</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a31"
+                TIME_SLOT_REF1="ts59" TIME_SLOT_REF2="ts60">
+                <ANNOTATION_VALUE>есть какие-то изменения, которые... // ну что / всегда жизнь вперёд двигается / всегда есть какие-то поправки в технике там / в стойке разгона / в отталкивании // ну основа то / всё равно она / как бы / есть и есть //</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+    </TIER>
+    <TIER ANNOTATOR="LizaDerb" DEFAULT_LOCALE="ru"
+        LINGUISTIC_TYPE_REF="utterance" PARTICIPANT="@rvch1976m" TIER_ID="speech@rvch1976m">
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a2"
+                TIME_SLOT_REF1="ts1" TIME_SLOT_REF2="ts2">
+                <ANNOTATION_VALUE>Сергей Александрович / добрый день //</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a3"
+                TIME_SLOT_REF1="ts5" TIME_SLOT_REF2="ts6">
+                <ANNOTATION_VALUE>мы находимся в раздевалке // а вот для вас всё-таки это нечто другое / может быть? // как рабочий кабинет / мой второй родной дом //</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a8"
+                TIME_SLOT_REF1="ts15" TIME_SLOT_REF2="ts16">
+                <ANNOTATION_VALUE>до тренерской работы / была спортивная часть? //</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a23"
+                TIME_SLOT_REF1="ts43" TIME_SLOT_REF2="ts44">
+                <ANNOTATION_VALUE>а вы тренером стали сразу? //</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a27"
+                TIME_SLOT_REF1="ts51" TIME_SLOT_REF2="ts52">
+                <ANNOTATION_VALUE>тренер Лысов тех времён / эээ / каких принципов он вообще придерживался? //</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+    </TIER>
+    <TIER DEFAULT_LOCALE="en" LINGUISTIC_TYPE_REF="utterance" TIER_ID="W-Spch"/>
+    <TIER DEFAULT_LOCALE="en" LINGUISTIC_TYPE_REF="gestures" TIER_ID="W-RGU"/>
+    <TIER DEFAULT_LOCALE="en" LINGUISTIC_TYPE_REF="gestures" TIER_ID="K-RGU"/>
+    <TIER DEFAULT_LOCALE="en" LINGUISTIC_TYPE_REF="words"
+        PARENT_REF="W-Spch" TIER_ID="W-Words"/>
+    <TIER DEFAULT_LOCALE="en"
+        LINGUISTIC_TYPE_REF="phonetic_transcription" PARENT_REF="W-Spch" TIER_ID="W-IPA"/>
+    <TIER DEFAULT_LOCALE="en" LINGUISTIC_TYPE_REF="gesture_phases"
+        PARENT_REF="W-RGU" TIER_ID="W-RGph"/>
+    <TIER DEFAULT_LOCALE="en" LINGUISTIC_TYPE_REF="gesture_phases"
+        PARENT_REF="K-RGU" TIER_ID="K-RGph"/>
+    <TIER DEFAULT_LOCALE="en" LINGUISTIC_TYPE_REF="part of speech"
+        PARENT_REF="W-Words" TIER_ID="W-POS"/>
+    <TIER DEFAULT_LOCALE="en" LINGUISTIC_TYPE_REF="gesture_meaning"
+        PARENT_REF="W-RGph" TIER_ID="W-RGMe"/>
+    <TIER DEFAULT_LOCALE="en" LINGUISTIC_TYPE_REF="gesture_meaning"
+        PARENT_REF="K-RGph" TIER_ID="K-RGMe"/>
+    <TIER ANNOTATOR="LizaDerb" DEFAULT_LOCALE="en"
+        LINGUISTIC_TYPE_REF="translation" PARENT_REF="speech@sal1951m"
+        PARTICIPANT="@sal1951m" TIER_ID="transl@sal1951m">
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a32" ANNOTATION_REF="a1">
+                <ANNOTATION_VALUE>good afternoon //</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a35" ANNOTATION_REF="a4">
+                <ANNOTATION_VALUE>well / probably /  the second one //</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a36" ANNOTATION_REF="a5">
+                <ANNOTATION_VALUE>#laughs#</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a37" ANNOTATION_REF="a6">
+                <ANNOTATION_VALUE>my second home / because I have been working there for so many years //</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a38" ANNOTATION_REF="a7">
+                <ANNOTATION_VALUE>there are a lot of children who have grown up here / and there are quite a lot of them / er / with an amazing results / so / for sure / it's home //</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a40" ANNOTATION_REF="a9">
+                <ANNOTATION_VALUE>I took up ski jumping in / um / year sixty-sixth //</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a41" ANNOTATION_REF="a11">
+                <ANNOTATION_VALUE>Mmm //</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a42" ANNOTATION_REF="a12">
+                <ANNOTATION_VALUE>I came here in that age / like right now it is considered / that such children should not do this sport //</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a43" ANNOTATION_REF="a13">
+                <ANNOTATION_VALUE>so / but... // I / probably / was talanted / so / I / kind of / very quickly began to succeed //</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a44" ANNOTATION_REF="a14">
+                <ANNOTATION_VALUE>I already... // in the first year of classes, I already jumped from / K-90 / here / from our ski-jump //</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a45" ANNOTATION_REF="a15">
+                <ANNOTATION_VALUE>already even / yeah //</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a46" ANNOTATION_REF="a16">
+                <ANNOTATION_VALUE>the next year I was already performing at competitions / although I was only fourteen years old //</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a47" ANNOTATION_REF="a18">
+                <ANNOTATION_VALUE>then / in sixty... / in the sixty-seventh I went to the championship of Russia / / I was the winner / among young men //</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a48" ANNOTATION_REF="a19">
+                <ANNOTATION_VALUE>yeah / so / my... / my results were getting better and better //</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a49" ANNOTATION_REF="a20">
+                <ANNOTATION_VALUE>then/ in the year sixty-eighth I went to / the first European championship / which was then renamed the world championship //</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a50" ANNOTATION_REF="a21">
+                <ANNOTATION_VALUE>then the second championship //</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a51" ANNOTATION_REF="a22">
+                <ANNOTATION_VALUE>well / the only thing is / uh / #laughs# / my fate was influenced by the injury //</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a52" ANNOTATION_REF="a24">
+                <ANNOTATION_VALUE>if you take into account the sports experience from the year sixty-eighth / then I did not immediately become a coach //</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a54" ANNOTATION_REF="a25">
+                <ANNOTATION_VALUE>I performed and / in Leninogorsk / in Tatarstan I was invited / um / as an athlete and for the future as a coach //</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a55" ANNOTATION_REF="a26">
+                <ANNOTATION_VALUE>and so I / like / a year there / maybe two / jumped for them / performed a little bit and smoothly switched to coaching / got an education //</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a57" ANNOTATION_REF="a28">
+                <ANNOTATION_VALUE>well / it seems to me / there was a little / maybe / children were different a little bit / like / maybe / it was easier / I'd say //</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a58" ANNOTATION_REF="a29">
+                <ANNOTATION_VALUE>more obedient / more like... //</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a59" ANNOTATION_REF="a30">
+                <ANNOTATION_VALUE>and / the methodology / practically it / is almost the same //</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a60" ANNOTATION_REF="a31">
+                <ANNOTATION_VALUE>there are some changes that... // well / life is always moving forward / there are always some corrections in the technique / in the acceleration rack / in the repulsion // well, the basis is / it's still / as it were //</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+    </TIER>
+    <TIER ANNOTATOR="LizaDerb" DEFAULT_LOCALE="en"
+        LINGUISTIC_TYPE_REF="translation" PARENT_REF="speech@rvch1976m"
+        PARTICIPANT="@rvch1976m" TIER_ID="transl@rvch1976m">
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a33" ANNOTATION_REF="a2">
+                <ANNOTATION_VALUE>Sergey Alexandrovich / good afternoon //</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a34" ANNOTATION_REF="a3">
+                <ANNOTATION_VALUE>we are in the dressing room // but for you, after all, is this something else / maybe? // like a working office / my second home //</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a39" ANNOTATION_REF="a8">
+                <ANNOTATION_VALUE>before the coach's job / were there times when you were a spotsman?//</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a53" ANNOTATION_REF="a23">
+                <ANNOTATION_VALUE>did you become a coach from the beginning? //</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a56" ANNOTATION_REF="a27">
+                <ANNOTATION_VALUE>coach Lysov of those times / um / what principles did he adhere to? //</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+    </TIER>
+    <LINGUISTIC_TYPE GRAPHIC_REFERENCES="false"
+        LINGUISTIC_TYPE_ID="default-lt" TIME_ALIGNABLE="true"/>
+    <LINGUISTIC_TYPE GRAPHIC_REFERENCES="false"
+        LINGUISTIC_TYPE_ID="utterance" TIME_ALIGNABLE="true"/>
+    <LINGUISTIC_TYPE CONSTRAINTS="Time_Subdivision"
+        GRAPHIC_REFERENCES="false" LINGUISTIC_TYPE_ID="words" TIME_ALIGNABLE="true"/>
+    <LINGUISTIC_TYPE CONSTRAINTS="Symbolic_Association"
+        GRAPHIC_REFERENCES="false"
+        LINGUISTIC_TYPE_ID="phonetic_transcription" TIME_ALIGNABLE="false"/>
+    <LINGUISTIC_TYPE GRAPHIC_REFERENCES="false"
+        LINGUISTIC_TYPE_ID="gestures" TIME_ALIGNABLE="true"/>
+    <LINGUISTIC_TYPE CONSTRAINTS="Time_Subdivision"
+        CONTROLLED_VOCABULARY_REF="Gesture phases"
+        GRAPHIC_REFERENCES="false" LINGUISTIC_TYPE_ID="gesture_phases" TIME_ALIGNABLE="true"/>
+    <LINGUISTIC_TYPE CONSTRAINTS="Symbolic_Association"
+        GRAPHIC_REFERENCES="false" LINGUISTIC_TYPE_ID="gesture_meaning" TIME_ALIGNABLE="false"/>
+    <LINGUISTIC_TYPE CONSTRAINTS="Symbolic_Association"
+        CONTROLLED_VOCABULARY_REF="POS" GRAPHIC_REFERENCES="false"
+        LINGUISTIC_TYPE_ID="part of speech" TIME_ALIGNABLE="false"/>
+    <LINGUISTIC_TYPE GRAPHIC_REFERENCES="false"
+        LINGUISTIC_TYPE_ID="left-hand gestures" TIME_ALIGNABLE="true"/>
+    <LINGUISTIC_TYPE GRAPHIC_REFERENCES="false"
+        LINGUISTIC_TYPE_ID="Left-hand gestures" TIME_ALIGNABLE="true"/>
+    <LINGUISTIC_TYPE CONSTRAINTS="Symbolic_Association"
+        GRAPHIC_REFERENCES="false" LINGUISTIC_TYPE_ID="translation" TIME_ALIGNABLE="false"/>
+    <LOCALE COUNTRY_CODE="RU" LANGUAGE_CODE="ru"/>
+    <LOCALE LANGUAGE_CODE="en" VARIANT="ASCII"/>
+    <LANGUAGE LANG_DEF="http://cdb.iso.org/lg/CDB-00130975-001"
+        LANG_ID="und" LANG_LABEL="undetermined (und)"/>
+    <CONSTRAINT
+        DESCRIPTION="Time subdivision of parent annotation's time interval, no time gaps allowed within this interval" STEREOTYPE="Time_Subdivision"/>
+    <CONSTRAINT
+        DESCRIPTION="Symbolic subdivision of a parent annotation. Annotations refering to the same parent are ordered" STEREOTYPE="Symbolic_Subdivision"/>
+    <CONSTRAINT DESCRIPTION="1-1 association with a parent annotation" STEREOTYPE="Symbolic_Association"/>
+    <CONSTRAINT
+        DESCRIPTION="Time alignable annotations within the parent annotation's time interval, gaps are allowed" STEREOTYPE="Included_In"/>
+    <CONTROLLED_VOCABULARY CV_ID="POS">
+        <DESCRIPTION LANG_REF="und">Part of Speech</DESCRIPTION>
+        <CV_ENTRY_ML CVE_ID="cveid_19aa30f6-e055-4bd4-a08e-18e17515b392">
+            <CVE_VALUE DESCRIPTION="noun" LANG_REF="und">n</CVE_VALUE>
+        </CV_ENTRY_ML>
+        <CV_ENTRY_ML CVE_ID="cveid_ee447079-8866-4653-8a62-4ea7751a6e1d">
+            <CVE_VALUE DESCRIPTION="verb" LANG_REF="und">v</CVE_VALUE>
+        </CV_ENTRY_ML>
+        <CV_ENTRY_ML CVE_ID="cveid_3cc68084-dc3e-4d64-b862-60c094374c0e">
+            <CVE_VALUE DESCRIPTION="interjection" LANG_REF="und">int</CVE_VALUE>
+        </CV_ENTRY_ML>
+        <CV_ENTRY_ML CVE_ID="cveid_27dd6139-fd25-48d4-8355-7816fde4e014">
+            <CVE_VALUE DESCRIPTION="adjective" LANG_REF="und">adj</CVE_VALUE>
+        </CV_ENTRY_ML>
+        <CV_ENTRY_ML CVE_ID="cveid_7a347a5f-034d-4fc3-87a3-ed5a20fcc659">
+            <CVE_VALUE DESCRIPTION="pronoun" LANG_REF="und">pro</CVE_VALUE>
+        </CV_ENTRY_ML>
+        <CV_ENTRY_ML CVE_ID="cveid_1b2d3a7b-56e0-40c0-a8ff-a3d3f1c8db77">
+            <CVE_VALUE DESCRIPTION="determiner" LANG_REF="und">det</CVE_VALUE>
+        </CV_ENTRY_ML>
+        <CV_ENTRY_ML CVE_ID="cveid_1dfdfe22-8ca3-47a2-8aa4-27ac6e499fdc">
+            <CVE_VALUE DESCRIPTION="article" LANG_REF="und">art</CVE_VALUE>
+        </CV_ENTRY_ML>
+        <CV_ENTRY_ML CVE_ID="cveid_177b5e55-22e6-4eae-9626-850cbad56e2d">
+            <CVE_VALUE DESCRIPTION="preposition" LANG_REF="und">prep</CVE_VALUE>
+        </CV_ENTRY_ML>
+        <CV_ENTRY_ML CVE_ID="cveid_dfaf274b-1e1e-4da8-9ea5-4e39d56d3d0e">
+            <CVE_VALUE DESCRIPTION="adverb" LANG_REF="und">adv</CVE_VALUE>
+        </CV_ENTRY_ML>
+        <CV_ENTRY_ML CVE_ID="cveid_1273c435-e38b-4628-a450-ed4a78886dae">
+            <CVE_VALUE DESCRIPTION="conj" LANG_REF="und">con</CVE_VALUE>
+        </CV_ENTRY_ML>
+        <CV_ENTRY_ML CVE_ID="cveid_cc8de9fa-f652-4ba4-a3fb-a01cf025664f">
+            <CVE_VALUE DESCRIPTION="demonstrative pronoun" LANG_REF="und">dem</CVE_VALUE>
+        </CV_ENTRY_ML>
+        <CV_ENTRY_ML CVE_ID="cveid_45a470c7-c663-4228-ba64-8a83ab084fc1">
+            <CVE_VALUE DESCRIPTION="post" LANG_REF="und">post</CVE_VALUE>
+        </CV_ENTRY_ML>
+        <CV_ENTRY_ML CVE_ID="cveid_e4fd4384-73d0-4e02-a48f-6f1c6ec817bd">
+            <CVE_VALUE DESCRIPTION="particle" LANG_REF="und">part</CVE_VALUE>
+        </CV_ENTRY_ML>
+    </CONTROLLED_VOCABULARY>
+    <CONTROLLED_VOCABULARY CV_ID="Gesture phases">
+        <DESCRIPTION LANG_REF="und">Gesture phases</DESCRIPTION>
+        <CV_ENTRY_ML CVE_ID="cveid_84932dec-72ca-4f31-89b3-9a643037d986">
+            <CVE_VALUE DESCRIPTION="preparation" LANG_REF="und">preparation</CVE_VALUE>
+        </CV_ENTRY_ML>
+        <CV_ENTRY_ML CVE_ID="cveid_f3113b6c-a0b3-4d21-9e69-bed3ad685c8b">
+            <CVE_VALUE DESCRIPTION="stroke" LANG_REF="und">stroke</CVE_VALUE>
+        </CV_ENTRY_ML>
+        <CV_ENTRY_ML CVE_ID="cveid_726b6698-7a5e-481c-b604-1eea6382bc98">
+            <CVE_VALUE DESCRIPTION="hold" LANG_REF="und">hold</CVE_VALUE>
+        </CV_ENTRY_ML>
+        <CV_ENTRY_ML CVE_ID="cveid_50dc8485-9a0f-499e-8531-ab45900eb093">
+            <CVE_VALUE DESCRIPTION="partial retraction" LANG_REF="und">part.retraction</CVE_VALUE>
+        </CV_ENTRY_ML>
+    </CONTROLLED_VOCABULARY>
+</ANNOTATION_DOCUMENT>
